@@ -1,0 +1,2 @@
+# Richmind
+Money mindset app
