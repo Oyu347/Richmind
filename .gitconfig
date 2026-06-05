@@ -1,3 +1,5 @@
 [user]
-	email = Oyuhai.9000@gmail.com
+	email = oyuhai.9000@gmail.com
 	name = Oyu347
+[http]
+	sslVerify = false
